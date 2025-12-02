@@ -36,4 +36,6 @@ Config: Конфигурация гиперпараметров и путей н
 
 Запустите solution.ipynb 
 
+Веса модели сохраняются в lgb_model_final.txt
+
 Результат сохранится в submission_final.csv.
